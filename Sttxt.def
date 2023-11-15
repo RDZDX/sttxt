@@ -1,0 +1,7 @@
+; Sttxt.def : Declares the module parameters for the DLL.
+
+LIBRARY      "Sttxt"
+DESCRIPTION  'Sttxt Windows Dynamic Link Library'
+
+EXPORTS
+    vm_entry @1
